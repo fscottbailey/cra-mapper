@@ -1,0 +1,9 @@
+streamlit>=1.33
+pandas>=2.0
+openpyxl>=3.1
+requests>=2.31
+folium>=0.16
+geopandas>=0.14
+pyogrio>=0.7
+shapely>=2.0
+branca>=0.7
