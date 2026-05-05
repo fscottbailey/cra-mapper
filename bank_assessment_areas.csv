@@ -1,0 +1,15 @@
+bank_name,aa_name,statefp,countyfp,county_name,msa_name,aa_weight,notes
+City National Bank,Los Angeles County,06,037,Los Angeles,Los Angeles-Long Beach-Anaheim CA,1.00,Sample county-level AA input; verify against bank CRA public file
+City National Bank,Orange County,06,059,Orange,Los Angeles-Long Beach-Anaheim CA,0.80,Sample county-level AA input; verify against bank CRA public file
+City National Bank,Ventura County,06,111,Ventura,Oxnard-Thousand Oaks-Ventura CA,0.60,Sample county-level AA input; verify against bank CRA public file
+City National Bank,Riverside County,06,065,Riverside,Riverside-San Bernardino-Ontario CA,0.50,Sample county-level AA input; verify against bank CRA public file
+City National Bank,San Bernardino County,06,071,San Bernardino,Riverside-San Bernardino-Ontario CA,0.50,Sample county-level AA input; verify against bank CRA public file
+City National Bank,San Diego County,06,073,San Diego,San Diego-Chula Vista-Carlsbad CA,0.40,Sample county-level AA input; verify against bank CRA public file
+City National Bank,San Francisco County,06,075,San Francisco,San Francisco-Oakland-Fremont CA,0.50,Sample county-level AA input; verify against bank CRA public file
+City National Bank,San Mateo County,06,081,San Mateo,San Francisco-Oakland-Fremont CA,0.40,Sample county-level AA input; verify against bank CRA public file
+City National Bank,Santa Clara County,06,085,Santa Clara,San Jose-Sunnyvale-Santa Clara CA,0.40,Sample county-level AA input; verify against bank CRA public file
+City National Bank,New York County,36,061,New York,New York-Newark-Jersey City NY-NJ,0.60,Sample county-level AA input; verify against bank CRA public file
+Huntington Bank,Franklin County OH,39,049,Franklin,Columbus OH,1.00,Sample only; verify against bank CRA public file
+Huntington Bank,Cuyahoga County OH,39,035,Cuyahoga,Cleveland-Elyria OH,1.00,Sample only; verify against bank CRA public file
+Huntington Bank,Wayne County MI,26,163,Wayne,Detroit-Warren-Dearborn MI,1.00,Sample only; verify against bank CRA public file
+Huntington Bank,Oakland County MI,26,125,Oakland,Detroit-Warren-Dearborn MI,0.80,Sample only; verify against bank CRA public file
